@@ -59,11 +59,11 @@ Menu, Tray, Default, Force Reload
 Menu, Tray, Click, 1
 
 Menu, Tray, Icon, Shell32.dll, 162
-Menu, Tray, Icon, Force Reload, %SystemRoot%\System32\shell32.dll,239
+Menu, Tray, Icon, Force Reload, %SystemRoot%\System32\imageres.dll,230
 Menu, Tray, Icon, Save current image, %SystemRoot%\System32\shell32.dll,259
 Menu, Tray, Icon, Set Image Size, %SystemRoot%\System32\shell32.dll,241
-Menu, Tray, Icon, Set Interval (m), %SystemRoot%\System32\shell32.dll,240
-Menu, Tray, Icon, Buy me a coffee, Coffee.ico
+Menu, Tray, Icon, Set Interval (m), %SystemRoot%\System32\shell32.dll,250
+Menu, Tray, Icon, Buy me a coffee, %SystemRoot%\System32\shell32.dll,44
 Menu, Tray, Icon, Exit, %SystemRoot%\System32\shell32.dll,28
 
 global interval, width, height
